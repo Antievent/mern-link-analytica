@@ -1,0 +1,18 @@
+@import "~materialize-css/dist/css/materialize.min.css";
+
+.m-r-10 {
+    margin-right: 10px;
+}
+.input-field-custom.input-field>label {
+    color: white;
+}
+
+.nav-wrapper {
+    padding: 0 20px;
+}
+
+.preloader-center {
+    display: flex;
+    justify-content: center;
+    padding-top: 100px;
+}
